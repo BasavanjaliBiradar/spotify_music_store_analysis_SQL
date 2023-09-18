@@ -9,4 +9,4 @@ This project helps to analyze the music playlist database, can examine the datas
 * PgAdmin4
 
 Schema- Music Store Database  
-<h1 align="center"> <img src=""></h1>
+<h1 align="center"> <img src="https://github.com/BasavanjaliBiradar/spotify_muisc_store_analysis_SQL/blob/main/MusicDatabaseSchema.png"></h1>
